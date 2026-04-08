@@ -42,9 +42,12 @@ Here are the technologies I work with to build responsive, user-centered applica
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Tools & Practices:**
-* Git & Version Control
-* Unix / Bash / Linux
-* Peer-to-peer development & Algorithmic problem solving (42 Network)
+* **Problem Solving** — Algorithmic thinking, optimization
+* **Testing** — Unit testing, integration testing, debugging
+* **Performance** — Profiling, optimization, memory management
+* **Collaboration** — Code review, peer programming
+* **DevOps** — Docker, docker-compose, NGINX configuration
+* **Version Control** — Git, branching strategies, code review
 
 ---
 
