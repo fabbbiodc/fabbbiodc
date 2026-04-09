@@ -4,6 +4,9 @@
 
 Full-Stack Developer | Product-Minded Engineer
 
+[![Email](https://img.shields.io/badge/Email-fabiodicecca@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiodicecca@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/fabiodicecca/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiodicecca)
 ---
 
 ## About
