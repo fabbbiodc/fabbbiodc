@@ -1,5 +1,7 @@
 # Fabio Di Cecca
 
+![mauricemoss](https://github.com/user-attachments/assets/198ebffe-18eb-4a4c-9f70-fd84717565c6)
+
 Full-Stack Developer | Product-Minded Engineer
 
 ---
